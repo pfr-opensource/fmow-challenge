@@ -1,0 +1,1 @@
+{"variable_size":1,"include_val":0,"training_augmentation":"RandomCrop","batch_size_per_gpu":16,"epoch_factor":5,"lr_factor":0.003,"model":"dpn131","seed":175595}
